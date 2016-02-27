@@ -1,0 +1,15 @@
+{
+  "name": "acceptance-tests",
+  "version": "1.0.0",
+  "description": "acceptance-tests",
+  "main": "conf.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "author": "Brian Yang",
+  "license": "ISC",
+  "devDependencies": {
+    "protractor": "^3.0.0",
+    "sillyname": "^0.1.0"
+  }
+}
